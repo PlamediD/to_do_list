@@ -7,6 +7,7 @@ const Color tdBlack = Color(0xFF333333);
 const Color tdGrey = Color(0xFF757575);
 
 const Color tdBGColor = Color(0xFFEEEFF5);
+const Color tColor= Color( 0xFF757333);
 
 
 /*import 'package:flutter/material.dart';
