@@ -19,4 +19,5 @@ const Color textColor = Color(0xFF333333); // Dark grey
 const Color hintColor = Color(0xFF757575); // Light grey
 
 const Color backgroundColor = Color(0xFFF5F5F5); // Light grey
+const Color dummyColor= Color( 0xFF757333);
 
